@@ -1,0 +1,71 @@
+{
+    "id": "",
+    "storeId": "",
+    "floor": "",
+    "layout": {
+        "walls": [
+            {
+                "start": {
+                    "coordinates": {
+                        "x": "500",
+                        "y": "500"
+                    }
+                },
+                "end": {
+                    "coordinates": {
+                        "x": "5000",
+                        "y": "500"
+                    }
+                }
+            },
+            {
+                "start": {
+                    "coordinates": {
+                        "x": "5000",
+                        "y": "500"
+                    }
+                },
+                "end": {
+                    "coordinates": {
+                        "x": "5000",
+                        "y": "5000"
+                    }
+                }
+            },
+            {
+                "start": {
+                    "coordinates": {
+                        "x": "0",
+                        "y": "500"
+                    }
+                },
+                "end": {
+                    "coordinates": {
+                        "x": "0",
+                        "y": "5000"
+                    }
+                }
+            },
+            {
+                "start": {
+                    "coordinates": {
+                        "x": "500",
+                        "y": "5000"
+                    }
+                },
+                "end": {
+                    "coordinates": {
+                        "x": "5000",
+                        "y": "5000"
+                    }
+                }
+            }
+        ],
+        "stairs": {
+            "coordinates": {
+                "x": "3000",
+                "y": "1000"
+            }
+        }
+    }
+}

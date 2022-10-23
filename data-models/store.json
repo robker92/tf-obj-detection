@@ -1,0 +1,12 @@
+{
+    "id": "",
+    "name": "",
+    "organizationId": "",
+    "address": {
+        "country": "",
+        "city": "",
+        "postcode": "",
+        "street": "",
+        "houseNumber": ""
+    }
+}

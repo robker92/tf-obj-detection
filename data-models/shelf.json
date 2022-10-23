@@ -1,0 +1,62 @@
+{
+    "id": "",
+    "productDirection": "",
+    "borders": [
+        {
+            "start": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            },
+            "end": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            }
+        },
+        {
+            "start": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            },
+            "end": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            }
+        },
+        {
+            "start": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            },
+            "end": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            }
+        },
+        {
+            "start": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            },
+            "end": {
+                "coordinates": {
+                    "x": "",
+                    "y": ""
+                }
+            }
+        }
+    ]
+}
